@@ -1,0 +1,55 @@
+.container {
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: sans-serif;
+}
+
+.title {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.submitBtn {
+  padding: 10px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.card {
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  background-color: #f9f9f9;
+}
+
+.cardTitle {
+  margin-top: 0;
+  color: #333;
+}
+
+.loadingText {
+  color: #666;
+}
+
+.errorText {
+  color: red;
+}

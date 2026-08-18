@@ -1,0 +1,73 @@
+.container {
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: sans-serif;
+}
+
+.title {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.form {
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.fieldGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.input,
+.select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.checkboxLabel {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.checkbox {
+  cursor: pointer;
+}
+
+.submitBtn {
+  padding: 10px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.previewBlock {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #eef9ff;
+  border-radius: 8px;
+}
+
+.previewTitle {
+  margin: 0 0 10px 0;
+}
