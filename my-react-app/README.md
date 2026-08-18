@@ -73,13 +73,13 @@
 1. Клонувати репозиторій:
 
 ```bash
-git clone <посилання-на-репозиторій>
+git clone (https://github.com/llens202/home-work-40-controlled-uncontrolled-components)
 ```
 
 2. Перейти до папки проекту:
 
 ```bash
-cd <назва-проекту>
+cd my-react-app
 ```
 
 3. Встановити залежності:
@@ -97,7 +97,7 @@ npm run dev
 5. Відкрити адресу, яку покаже Vite у терміналі, зазвичай:
 
 ```text
-http://localhost:5173
+my-react-app-lens-c08b.vercel.app
 ```
 
 ## Мета роботи
