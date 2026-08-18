@@ -97,7 +97,7 @@ npm run dev
 5. Відкрити адресу, яку покаже Vite у терміналі, зазвичай:
 
 ```text
-my-react-app-lens-c08b.vercel.app
+(https://my-react-app-git-main-lens-c08b.vercel.app)
 ```
 
 ## Мета роботи
